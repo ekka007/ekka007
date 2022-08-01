@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...full-stack devops engineer
 - 💞️ I’m looking to collaborate on ... tech-automation Geeks
-- 📫 How to reach me ...
+- 📫 How to reach me ...on webtesting01@protonmail.com
 
 <!---
 ekka007/ekka007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
