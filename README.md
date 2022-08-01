@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekka007
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... integration / Deployment / microservices / Live monitoring
 - 🌱 I’m currently learning ...full-stack devops engineer
 - 💞️ I’m looking to collaborate on ... tech-automation Geeks
 - 📫 How to reach me ...on webtesting01@protonmail.com
