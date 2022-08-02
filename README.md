@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m saroj_ekka<br>👀 I’m interested in ... integration / Deployment / microservices / Live monitoring<br>🌱 I’m currently learning ...full-stack devops engineer<br>💞️ I’m looking to collaborate on ... tech-automation Geeks<br>📫 How to reach me ...on webtesting01@protonmail.com
 
+![](http://i.imgur.com/Ssfp7.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saroj-ekka-b58b50150/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@s.ekka.devops) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ekkasaroj07) 
